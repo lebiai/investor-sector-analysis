@@ -1,0 +1,4 @@
+interface:
+  display_name: "投资人赛道分析"
+  short_description: "多机构辩论模式分析行业赛道，自动识别共识、分歧与盲点，每次分析积累案例库与个人洞察，越用越聪明"
+  default_prompt: "帮我分析一下 [赛道名称] 赛道，用多机构辩论模式"

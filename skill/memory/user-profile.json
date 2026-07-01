@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "last_updated": "2026-07-01",
+  "user": {
+    "name": null,
+    "investment_stage_preference": null,
+    "sector_interests": []
+  },
+  "weights": {
+    "market_size_growth": 0.25,
+    "competitive_advantage_barriers": 0.20,
+    "unit_economics_profitability": 0.20,
+    "tech_product_maturity": 0.15,
+    "team_quality": 0.10,
+    "risk_reward": 0.10
+  },
+  "institution_trust": {
+    "sequoia": null,
+    "benchmark": null,
+    "softbank": null,
+    "hillhouse": null,
+    "buffett": null,
+    "3g_capital": null
+  },
+  "agreement_history": [],
+  "preferred_dimensions": [],
+  "session_count": 0,
+  "case_count": 0
+}
